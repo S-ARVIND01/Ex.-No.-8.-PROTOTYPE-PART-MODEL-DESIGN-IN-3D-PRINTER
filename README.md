@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2023-06-11 132625](https://github.com/S-ARVIND01/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707337/0f7626f9-e06e-455e-a6e5-b0784f19fd7d)
+
+### Name: S ARVIND
+### Register Number: 212222240012
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
